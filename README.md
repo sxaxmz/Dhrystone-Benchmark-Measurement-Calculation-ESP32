@@ -6,7 +6,7 @@ Dhrystone compares the performance of the processor under benchmark to that of a
 
 The Dhrystone figure is calculated by measuring the number of Dhrystones per second for the system, and dividing that by 1757. A DMIPS/MHz rating takes this normalization process one step further, enabling comparison of processor performance at different clock rates. In theory, Dhrystone should provide a basis for the comparison of processor performances.
 
-The measurments conduct in this experiment is to cover the Dhrystone Benchmark measurement calculation for complexity of integer computation performed on ESP 32 WROVER DEVKIT (with LCD TFT).
+The measurments conducted in this experiment is to cover the Dhrystone Benchmark measurement calculation for complexity of integer computation performed on ESP 32 WROVER DEVKIT (with LCD TFT).
 
 ESP32 is a series of low-cost, low-power system on a chip microcontrollers with integrated Wi-Fi and dual-mode Bluetooth.
 
@@ -20,4 +20,5 @@ Measurments conducted through the expreiment:
 ![Measurements](/Images/measurments.png)
 
 Sample of the output:
+
 ![Application Core 1](/Images/screenshot1.jpg) ![Protocol Core 0](/Images/screenshot2.jpg)
